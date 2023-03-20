@@ -1,0 +1,7 @@
+{
+  "callback": "LNURL1DP68GUP69UHH2MTZWFJKCTNVDA3KZMP6XVCRQDE0D3H82UNVWQH5Z4ECDYUH2MKHSPX",
+  "maxSendable": "1000000",
+  "minSendable": "10000",
+  "metadata": "{\"test\": \"test\"}",
+  "tag": "payRequest"
+}
